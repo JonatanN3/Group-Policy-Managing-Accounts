@@ -1,4 +1,4 @@
-# Group-Policy-Managing-Accounts
+# Group Policy Managing Accounts
 This tutorial is to show policy management.
 
 <h2>Environments and Technologies Used</h2>
